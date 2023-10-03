@@ -1,7 +1,10 @@
 import streamlit
 
-streamlit.title('My  Parets New Healthy Dinner')
-streamlit.header('Breakfast Menu')
-streamlit.text('Omega 3 &  blueberry oatmeal')
-streamlit.text('Kale, spinach & Rocket smoothie')
-streamlit.text('Hard-Boiled Free_Range Egg')
+streamlit.title('🥣 My  Parets New Healthy Dinner')
+streamlit.header(' Breakfast Menu')
+streamlit.text(' 🥣 Omega 3 & Blueberry Oatmeal')
+streamlit.text('🥗 Kale, Spinach & Rocket Smoothie')
+streamlit.text('🐔 Hard-Boiled Free-Range Egg')
+streamlit.text('🥑🍞 Avocado Toast')
+streamlit.header('🍌🥭 Build Your Own Fruit Smoothie 🥝🍇')
+
